@@ -1,7 +1,7 @@
-# Distance Between Two Points on a 2D Plane
+# The distance between two points
 
 ## Description
-This is a simple Python program that helps you find the exact distance between two coordinates on a flat grid map. It handles the math formulas for you using a built-in math library.
+This program calculates the distance between two points using sqrt() and pow().
 
 ## How to run
 1. Open the code file in an online editor like Replit or Google Colab, or a desktop app like VS Code.
